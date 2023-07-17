@@ -11,6 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/kohya_ss-colab/blob/main/kohya_ss_colab.ipynb) | kohya_ss_colab
 
 ## Tutorial
+From https://www.youtube.com/@SECourses <br />
 https://www.youtube.com/watch?v=TpuDOsuKIBo <br />
 https://www.youtube.com/watch?v=3uzCNrQao3o <br />
 
