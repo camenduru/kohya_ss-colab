@@ -12,8 +12,8 @@
 
 ## Tutorial
 From https://www.youtube.com/@SECourses <br />
-https://www.youtube.com/watch?v=TpuDOsuKIBo <br />
-https://www.youtube.com/watch?v=3uzCNrQao3o <br />
+- https://www.youtube.com/watch?v=TpuDOsuKIBo <br />
+- https://www.youtube.com/watch?v=3uzCNrQao3o <br />
 
 ## Main Repo
 https://github.com/kohya-ss/sd-scripts <br />
