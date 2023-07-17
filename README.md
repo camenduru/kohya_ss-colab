@@ -11,6 +11,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/kohya_ss-colab/blob/main/kohya_ss_colab.ipynb) | kohya_ss_colab
 
 ## Tutorial
+https://www.youtube.com/watch?v=TpuDOsuKIBo <br />
+https://www.youtube.com/watch?v=3uzCNrQao3o <br />
 
 ## Main Repo
 https://github.com/kohya-ss/sd-scripts <br />
@@ -23,6 +25,3 @@ https://github.com/microsoft/LoRA <br />
 ## Paper
 https://arxiv.org/abs/2208.12242 <br />
 https://arxiv.org/abs/2106.09685 <br />
-
-
-## Output
