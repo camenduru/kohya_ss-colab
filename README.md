@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=3uzCNrQao3o <br />
 ## Main Repo
 https://github.com/kohya-ss/sd-scripts <br />
 https://github.com/bmaltais/kohya_ss <br />
+https://github.com/huggingface/diffusers <br />
 
 ## Page
 https://dreambooth.github.io/ <br />
