@@ -13,14 +13,16 @@
 ## Tutorial
 
 ## Main Repo
-https://github.com/kohya-ss/sd-scripts
-https://github.com/bmaltais/kohya_ss
+https://github.com/kohya-ss/sd-scripts <br />
+https://github.com/bmaltais/kohya_ss <br />
 
 ## Page
-https://dreambooth.github.io/
+https://dreambooth.github.io/ <br />
+https://github.com/microsoft/LoRA <br />
 
 ## Paper
-https://arxiv.org/abs/2208.12242
+https://arxiv.org/abs/2208.12242 <br />
+https://arxiv.org/abs/2106.09685 <br />
 
 
 ## Output
