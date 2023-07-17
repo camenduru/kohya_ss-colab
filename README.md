@@ -26,3 +26,6 @@ https://github.com/microsoft/LoRA <br />
 ## Paper
 https://arxiv.org/abs/2208.12242 <br />
 https://arxiv.org/abs/2106.09685 <br />
+
+## Output
+![Output](https://github.com/camenduru/kohya_ss-colab/assets/54370274/7634544c-4195-4915-9cf1-4a3277bc8d18)
